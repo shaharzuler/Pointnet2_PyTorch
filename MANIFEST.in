@@ -1,1 +1,1 @@
-graft pointnet2/config/
+graft pointnet2_ops/_ext-src
